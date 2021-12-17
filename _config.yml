@@ -7,5 +7,5 @@ exclude:
   - "specification/"
 
 #rooturl: /dronecan.github.io
-baseurl: /
-url: https://cubepilot.github.io
+baseurl: /dronecan.github.io
+url: https://yuan-java.github.io
