@@ -7,3 +7,4 @@ exclude:
   - "specification/"
 
 baseurl: /dronecan.github.io
+url: https://cubepilot.github.io
