@@ -1,6 +1,3 @@
----
-layout: nil
----
 
 .highlight table td { padding: 5px; }
 
@@ -282,4 +279,4 @@ dl dt { color: #303030; }
   nav ul     { display: none; }
   nav select { display: inline-block; }
   .inner { width: 94%; margin: 0 auto; } }
-}
+
