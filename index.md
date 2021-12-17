@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <img src="image/logo_w_props.png" width="128"/>
 # DroneCAN
 
