@@ -6,4 +6,4 @@ description: DroneCAN is the primary CAN protocol used by the ArduPilot and PX4 
 exclude:
   - "specification/"
 
-root: /
+root: /dronecan.github.io/
